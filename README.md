@@ -58,7 +58,8 @@ Open the index.html file in your browser.
 License
 This project is open-source and available under the MIT License.
 
-#OUTPUT: ![image](https://github.com/user-attachments/assets/41461f3a-6c9d-44f9-b769-de0228ffea59)
+#OUTPUT: ![image](https://github.com/user-attachments/assets/924c6290-18b7-4266-8147-07dbaebb3bf2)
+
 
 
 
